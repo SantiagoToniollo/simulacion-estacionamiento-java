@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=autoJugador
+comment0.text=\r\n\ Representa\ al\ auto\ controlado\ por\ el\ jugador.\r\n\ Puede\ moverse\ con\ rotaci\u00F3n\ y\ debe\ permanecer\ en\ la\ calle\ o\ zonas\ v\u00E1lidas.\r\n
+comment1.params=
+comment1.target=autoJugador()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ controlarMovimiento()
+comment3.text=Controla\ teclas\ y\ aplica\ movimiento/rotaci\u00F3n
+comment4.params=x\ y
+comment4.target=boolean\ poseValida(int,\ int)
+comment4.text=Verifica\ si\ la\ posici\u00F3n\ est\u00E1\ dentro\ de\ zonas\ permitidas\ y\ no\ es\ verde
+comment5.params=x\ y
+comment5.target=boolean\ inAllowedZone(int,\ int)
+comment5.text=Devuelve\ true\ si\ (x,y)\ est\u00E1\ dentro\ de\ una\ zona\ permitida
+comment6.params=
+comment6.target=void\ verificarChoque()
+comment6.text=Verifica\ colisiones\ y\ reinicia\ el\ nivel\ si\ ocurre
+comment7.params=clase\ mensaje
+comment7.target=boolean\ chocoCon(java.lang.Class,\ java.lang.String)
+comment7.text=M\u00E9todo\ auxiliar\ para\ simplificar\ detecci\u00F3n\ de\ colisiones\ con\ mensaje
+numComments=8

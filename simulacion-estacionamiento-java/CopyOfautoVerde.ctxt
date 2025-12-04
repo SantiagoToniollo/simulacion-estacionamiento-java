@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CopyOfautoVerde
+comment0.text=\r\n\ Auto\ verde\ que\ puede\ estar\ est\u00E1tico\ o\ moverse\ autom\u00E1ticamente\ en\ vertical.\r\n
+comment1.params=
+comment1.target=CopyOfautoVerde()
+comment1.text=\r\n\ Constructor\ por\ defecto\ (auto\ est\u00E1tico,\ nivel\ 1).\r\n
+comment2.params=movimientoAutomatico
+comment2.target=CopyOfautoVerde(boolean)
+comment2.text=\r\n\ Constructor\ que\ permite\ decidir\ si\ el\ auto\ se\ mueve\ autom\u00E1ticamente.\r\n\ @param\ movimientoAutomatico\ true\ si\ debe\ moverse,\ false\ si\ queda\ est\u00E1tico\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ M\u00E9todo\ principal\:\ ejecuta\ acciones\ del\ auto\ en\ cada\ ciclo.\r\n
+comment4.params=
+comment4.target=void\ moverVerticalmente()
+comment4.text=\r\n\ Mueve\ el\ auto\ hacia\ arriba\ y\ abajo\ dentro\ de\ los\ l\u00EDmites\ del\ mundo.\r\n
+numComments=5

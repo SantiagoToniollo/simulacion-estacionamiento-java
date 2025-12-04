@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Nivel2
+comment0.text=\r\n\ Nivel\ 2\ -\ Dificultad\ mayor\ al\ nivel\ 1.\r\n\ Contiene\ autos\ en\ movimiento\ y\ peatones.\r\n
+comment1.params=
+comment1.target=Nivel2()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=message
+comment3.target=void\ showCenteredMessage(java.lang.String)
+comment3.text=\r\n\ Muestra\ un\ mensaje\ centrado\ en\ pantalla.\r\n
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Prepara\ los\ objetos\ iniciales\ del\ nivel.\r\n
+comment5.params=
+comment5.target=void\ addJugador()
+comment5.text=\r\n\ Crea\ y\ coloca\ al\ jugador.\r\n
+comment6.params=
+comment6.target=void\ addMeta()
+comment6.text=\r\n\ Crea\ la\ zona\ verde\ de\ victoria.\r\n
+comment7.params=
+comment7.target=void\ addAutos()
+comment7.text=\r\n\ Crea\ los\ autos\ del\ nivel.\r\n
+comment8.params=
+comment8.target=void\ addPeatones()
+comment8.text=\r\n\ Crea\ los\ peatones.\r\n
+numComments=9

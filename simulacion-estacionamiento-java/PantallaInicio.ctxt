@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PantallaInicio
+comment1.params=
+comment1.target=PantallaInicio()
+comment2.params=
+comment2.target=void\ configurarPantallaInicio()
+comment2.text=\r\n\ Configura\ la\ pantalla\ de\ inicio\:\r\n\ -\ Escala\ la\ imagen\ al\ tama\u00F1o\ de\ la\ ventana\ manteniendo\ proporci\u00F3n.\r\n\ -\ Pinta\ el\ fondo\ negro\ y\ centra\ la\ imagen\ escalada.\r\n\ -\ Muestra\ el\ mensaje\ para\ iniciar.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Detecta\ si\ el\ jugador\ presiona\ ENTER\ para\ comenzar\ el\ juego.\r\n
+numComments=4

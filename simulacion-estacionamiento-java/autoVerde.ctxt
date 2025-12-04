@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=autoVerde
+comment0.text=\r\n\ Auto\ verde\ que\ puede\ estar\ est\u00E1tico\ o\ moverse\ autom\u00E1ticamente\ en\ vertical\ dentro\ de\ l\u00EDmites.\r\n
+comment1.params=
+comment1.target=autoVerde()
+comment1.text=\r\n\ Constructor\ por\ defecto\ (auto\ est\u00E1tico,\ nivel\ 1).\r\n
+comment2.params=movimientoAutomatico
+comment2.target=autoVerde(boolean)
+comment2.text=\r\n\ Constructor\ que\ permite\ decidir\ si\ el\ auto\ se\ mueve\ autom\u00E1ticamente.\r\n\ @param\ movimientoAutomatico\ true\ si\ debe\ moverse,\ false\ si\ queda\ est\u00E1tico\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ moverVerticalmente()
+comment4.text=\r\n\ Mueve\ el\ auto\ hacia\ arriba\ o\ abajo\ dentro\ de\ los\ l\u00EDmites\ definidos.\r\n
+comment5.params=superior\ inferior
+comment5.target=void\ setLimites(int,\ int)
+comment5.text=Permite\ ajustar\ los\ l\u00EDmites\ en\ tiempo\ de\ ejecuci\u00F3n\ si\ se\ desea
+numComments=6
